@@ -16,3 +16,11 @@
 - [baitaplaptrinh2](https://www.jdoodle.com/embed/v0/5B2h)
 - [baitaplaptrinh3](https://www.jdoodle.com/embed/v0/5B2q)
 - [baitaplaptrinh4](https://www.jdoodle.com/embed/v0/5D9a)
+
+## bài tập ngoài lề
+- [bài tập tính sổ tay](https://www.jdoodle.com/embed/v0/5xtO)
+- [bài tập tính diện tích hình tròn](https://www.jdoodle.com/embed/v0/5wrO)
+
+## bt kiểm tra ngày 20/12
+- [kiểm tra 1](https://www.jdoodle.com/embed/v0/5F2z)
+- [kiểm tra 2](https://www.jdoodle.com/embed/v0/5FTS)
