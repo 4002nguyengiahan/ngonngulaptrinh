@@ -17,7 +17,7 @@
 - [baitaplaptrinh3](https://www.jdoodle.com/embed/v0/5B2q)
 - [baitaplaptrinh4](https://www.jdoodle.com/embed/v0/5D9a)
 
-## [bài tập 4](https://hoctructuyencntt.github.io/NNLT/Bai04.html)
+## [bài4:Các câu lệnh lặp](https://hoctructuyencntt.github.io/NNLT/Bai04.html)
 ### bài tập lập trình
 - [ bài tập 3 Hiển thị các kí tự in hoa từ A đến Z](https://www.jdoodle.com/embed/v0/5FTX)
 ## bài tập ngoài lề
