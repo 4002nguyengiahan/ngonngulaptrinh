@@ -1,3 +1,8 @@
+## [Bài2: các câu lệnh lặp](https://hoctructuyencntt.github.io/NNLT/Bai02.html)
+- [bài tập 2.1](https://www.jdoodle.com/embed/v0/5u7l)
+- [bài tập 2.2](https://www.jdoodle.com/embed/v0/5u7p)
+- [bài tập 2.3](https://www.jdoodle.com/embed/v0/5u7k)
+
 # ngonngulaptrinh
 ## bai tap if else
 - [baitap3.1](https://www.jdoodle.com/embed/v0/5ASO)
