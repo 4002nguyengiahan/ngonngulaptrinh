@@ -19,6 +19,7 @@
 
 ## [bài4:Các câu lệnh lặp](https://hoctructuyencntt.github.io/NNLT/Bai04.html)
 ### bài tập lập trình
+- [ bài 2 Tìm số nguyên dương nhỏ nhất sao cho S = 1 + 2 +...+ n > 10000](https://www.jdoodle.com/embed/v0/5G2q)
 - [ bài tập 3 Hiển thị các kí tự in hoa từ A đến Z](https://www.jdoodle.com/embed/v0/5FTX)
 ## bài tập ngoài lề
 - [bài tập tính sổ tay](https://www.jdoodle.com/embed/v0/5xtO)
