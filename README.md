@@ -30,4 +30,4 @@
 - [kiểm tra 2](https://www.jdoodle.com/embed/v0/5FTS)
 
 
-- [hgdvh](jdoodle.com/a/5wrO)
+- [hgdvh](https://www.jdoodle.com/embed/v0/5wrO)
