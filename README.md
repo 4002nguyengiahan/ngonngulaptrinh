@@ -21,7 +21,16 @@
 ### bài tập lập trình
 - [ bài 1 Viết chương trình tính tổng S = 13 + 23 + 33 +...+ N3](https://www.jdoodle.com/a/5GGf)
 - [ bài 2 Tìm số nguyên dương nhỏ nhất sao cho S = 1 + 2 +...+ n > 10000](https://www.jdoodle.com/a/5G2q)
-- [ bài tập 3 Hiển thị các kí tự in hoa từ A đến Z](https://www.jdoodle.com/a/5FTX)
+- [ bài 3 Hiển thị các kí tự in hoa từ A đến Z](https://www.jdoodle.com/a/5FTX)
+- [ bài 4 Viết chương trình tính tổng các giá trị lẻ nguyên dương nhỏ hơn N.](https://www.jdoodle.com/a/5GGh)
+- [ bài 5 Viết chương trình tìm số nguyên dương m lớn nhất sao cho S = 1 + 2 + 3 +…+ m < N](https://www.jdoodle.com/a/5GGj)
+- [ bài 6 In tất cả các số nguyên dương lẻ nhỏ hơn 100](https://www.jdoodle.com/a/5GGk)
+- [ bài 7 Tìm ước số chung lớn nhất của hai số nguyên dương a, b.](https://www.jdoodle.com/a/5GGn)
+- [ bài 8 Viết chương trình kiểm tra một số có phải là số nguyên tố hay không](https://www.jdoodle.com/a/5GGp)
+- [ bài 9 Viết chương trình in ra tất cả các số lẻ nhỏ hơn 100 trừ các số 5, 7, 93 ](https://www.jdoodle.com/a/5GGq)
+
+
+
 ## bài tập ngoài lề
 - [bài tập tính sổ tay](https://www.jdoodle.com/a/5xtO)
 - [bài tập tính diện tích hình tròn](https://www.jdoodle.com/a/5wrO)
