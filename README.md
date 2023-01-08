@@ -1,4 +1,4 @@
-# ngonngulaptrinh
+# NGÔN NGỮ LẬP TRÌNH
 ## [Bài2: các câu lệnh lặp](https://hoctructuyencntt.github.io/NNLT/Bai02.html)
 - [bài tập 2.1](https://www.jdoodle.com/a/5u7l)
 - [bài tập 2.2](https://www.jdoodle.com/a/5u7p)
