@@ -2,7 +2,7 @@
 ## [Bài2: các câu lệnh đơn](https://hoctructuyencntt.github.io/NNLT/Bai02.html)
 - [mục III vd 1:xuất rà màn hình 3 dòng chữ Xin chào các bạn! chỉ với 1 lệnh printf](https://www.jdoodle.com/a/5u7l)
 - [mục III vd 2:thay đổi lệnh printf xuất ra màn hình giá trị a = 1.234567E+01](https://www.jdoodle.com/a/5u7p)
-- [mục IV  vd 4:xuất rà màn hình tổng giá trị của hai biến a và b](https://www.jdoodle.com/a/5u7k)
+- [mục IV  vd 4:xuất rà màn hình tổng giá trị của hai biến a và b](https://www.jdoodle.com/a/v0/5HEt)
 
 ## [ bài3: Các câu lệnh rẽ nhánh](https://hoctructuyencntt.github.io/NNLT/Bai03.html)
 ### bai tap if else
