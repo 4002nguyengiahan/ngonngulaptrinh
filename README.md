@@ -8,7 +8,7 @@
 ### bai tap if else
 - [mục II.1 Lệnh if-else, cách 1:yêu cầu người dùng nhập vào một số nguyên bất kỳ và hiển thị thông báo nếu số nguyên đó là số âm](https://www.jdoodle.com/a/5HEz)
 - [mục II.1 Lệnh if-else, cách 2:nhập vào một số nguyên bất kỳ và hiển thị thông báo số đó là chẵn hay lẻ](https://www.jdoodle.com/a/5HEE)
-- [baitap3.3](https://www.jdoodle.com/a/5Axh)
+- [mục II.2. Lệnh if - else if - else: yêu cầu người dùng nhập vào điểm của một học sinh từ 0 đến 10 và hiển thị thông báo theo quy tắc](https://www.jdoodle.com/a/5HHd)
 - [baitap3.4](https://www.jdoodle.com/a/5Axh)
 
 ### bai tap lap trinh if else
