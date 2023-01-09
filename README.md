@@ -12,8 +12,8 @@
 - [mục III Lệnh lựa chọn switch: yêu cầu người dùng nhập vào hai số a, b và một ký tự bất kỳ. Chương trình sẽ hiển thị thông báo theo quy tắc sau](https://www.jdoodle.com/a/5HHF)
 
 ### bai tap lap trinh if else
-- [baitaplaptrinh1](https://www.jdoodle.com/a/5B2)
-- [baitaplaptrinh2](https://www.jdoodle.com/a/5B2h)
+- [baitaplaptrinh1](https://www.jdoodle.com/a/5B2h)
+- [baitaplaptrinh2]()
 - [baitaplaptrinh3](https://www.jdoodle.com/a/5B2q)
 - [baitaplaptrinh4](https://www.jdoodle.com/a/5D9a)
 
