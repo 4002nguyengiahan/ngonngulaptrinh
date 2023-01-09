@@ -13,7 +13,7 @@
 
 ### bai tap lap trinh if else
 - [baitaplaptrinh1](https://www.jdoodle.com/a/5B2h)
-- [baitaplaptrinh2]()
+- [baitaplaptrinh2](không có biết làm)
 - [baitaplaptrinh3](https://www.jdoodle.com/a/5B2q)
 - [baitaplaptrinh4](https://www.jdoodle.com/a/5D9a)
 
