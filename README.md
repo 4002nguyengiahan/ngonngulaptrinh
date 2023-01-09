@@ -18,7 +18,7 @@
 - [baitaplaptrinh4](https://www.jdoodle.com/a/5D9a)
 
 ## [bài4:Các câu lệnh lặp](https://hoctructuyencntt.github.io/NNLT/Bai04.html)
-- [baitap1  tổng S = 1 + 1/2 + 1/3 +...+ 1/n ](https://www.jdoodle.com/a/5GGu)
+* [baitap1  tổng S = 1 + 1/2 + 1/3 +...+ 1/n ](https://www.jdoodle.com/a/5GGu)
 - [baitap2  xuất rà màn hình số nguyên dương n nhỏ nhất sao cho 1 + 2 +...+ n > 10000.](https://www.jdoodle.com/a/5GGv)
 - [baitap3 ]()
 - [baitap4  hiển thị tất cả các số lẻ nhỏ hơn 100 trừ các số 5, 7, 93. ](https://www.jdoodle.com/a/5GGD)
