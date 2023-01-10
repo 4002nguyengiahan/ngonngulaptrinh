@@ -27,6 +27,7 @@
 - [ bài 1 Viết chương trình tính tổng S = 13 + 23 + 33 +...+ N3](https://www.jdoodle.com/a/5GGf)
 - [ bài 2 Tìm số nguyên dương nhỏ nhất sao cho S = 1 + 2 +...+ n > 10000](https://www.jdoodle.com/a/5G2q)
 - [ bài 3 Hiển thị các kí tự in hoa từ A đến Z](https://www.jdoodle.com/a/5FTX)
+- [ bài 4 Viết chương trình tính tổng các giá trị lẻ nguyên dương nhỏ hơn N.](https://www.jdoodle.com/a/5GGh)
 - [ bài 5 Viết chương trình tìm số nguyên dương m lớn nhất sao cho S = 1 + 2 + 3 +…+ m < N](https://www.jdoodle.com/a/5GGj)
 - [ bài 6 In tất cả các số nguyên dương lẻ nhỏ hơn 100](https://www.jdoodle.com/a/5GGk)
 - [ bài 7 Tìm ước số chung lớn nhất của hai số nguyên dương a, b.](https://www.jdoodle.com/a/5GGn)
