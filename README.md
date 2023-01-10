@@ -41,7 +41,7 @@ Truoc khi hoan vi: x = 3 y = 5
 Sau khi hoan vi: x = 5 y = 3](hong có biết làm)
 
 ## [bài 6:Mảng](https://hoctructuyencntt.github.io/NNLT/Bai06.html)
--[Thay đổi chương trình trên để hiển thị ra màn hình phần tử có giá trị lớn nhất của mảng.](https://www.jdoodle.com/a/5I3j)
+- [Thay đổi chương trình trên để hiển thị ra màn hình phần tử có giá trị lớn nhất của mảng.](https://www.jdoodle.com/a/5I3j)
 
 
 
