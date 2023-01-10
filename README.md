@@ -23,19 +23,6 @@
 - [Thay đổi nội dung chương trình C yêu cầu người dùng nhập số nguyên dương N bất kỳ và xuất ra màn hình số nguyên dương m lớn nhất sao cho 1 + 2 +...+ m > N ](chưa có làm)
 - [hiển thị tất cả các số lẻ nhỏ hơn 100 trừ các số 5, 7, 93. ](https://www.jdoodle.com/a/5HX5)
 
-##[bài 5:Hàm](https://hoctructuyencntt.github.io/NNLT/Bai05.html)
-- [Hoàn chỉnh hàm tong(n) để chương trình xuất ra giá trị 1 + 2 +...+ n. Ví dụ nhập vào ô Stdin Inputs là 3 và nhấn Execute sẽ hiển thị 1 + 2 +...+ n = 6]()
-- [Điều chỉnh nội dung hàm hoanvi(x, y) để xuất ra màn hình:
-Truoc khi hoan vi: x = 3 y = 5
-Sau khi hoan vi: x = 5 y = 3](hong có biết làm)
-
-##[bài 6:Mảng](https://hoctructuyencntt.github.io/NNLT/Bai06.html)
-
-
-
-
-
-
 ### bài tập lập trình
 - [ bài 1 Viết chương trình tính tổng S = 13 + 23 + 33 +...+ N3](https://www.jdoodle.com/a/5GGf)
 - [ bài 2 Tìm số nguyên dương nhỏ nhất sao cho S = 1 + 2 +...+ n > 10000](https://www.jdoodle.com/a/5G2q)
@@ -46,6 +33,18 @@ Sau khi hoan vi: x = 5 y = 3](hong có biết làm)
 - [ bài 7 Tìm ước số chung lớn nhất của hai số nguyên dương a, b.](https://www.jdoodle.com/a/5GGn)
 - [ bài 8 Viết chương trình kiểm tra một số có phải là số nguyên tố hay không](https://www.jdoodle.com/a/5GGp)
 - [ bài 9 Viết chương trình in ra tất cả các số lẻ nhỏ hơn 100 trừ các số 5, 7, 93 ](https://www.jdoodle.com/a/5GGq)
+
+##[bài 5:Hàm](https://hoctructuyencntt.github.io/NNLT/Bai05.html)
+- [Hoàn chỉnh hàm tong(n) để chương trình xuất ra giá trị 1 + 2 +...+ n. Ví dụ nhập vào ô Stdin Inputs là 3 và nhấn Execute sẽ hiển thị 1 + 2 +...+ n = 6]()
+- [Điều chỉnh nội dung hàm hoanvi(x, y) để xuất ra màn hình:
+Truoc khi hoan vi: x = 3 y = 5
+Sau khi hoan vi: x = 5 y = 3](hong có biết làm)
+
+##[bài 6:Mảng](https://hoctructuyencntt.github.io/NNLT/Bai06.html)
+-[Thay đổi chương trình trên để hiển thị ra màn hình phần tử có giá trị lớn nhất của mảng.](https://www.jdoodle.com/a/5I3j)
+
+
+
 
 
 
