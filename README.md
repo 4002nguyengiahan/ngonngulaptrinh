@@ -55,4 +55,6 @@ Sau khi hoan vi: x = 5 y = 3](hong có biết làm)
 ## bt kiểm tra ngày 20/12
 - [kiểm tra 1](https://www.jdoodle.com/a/5F2z)
 - [kiểm tra 2](https://www.jdoodle.com/a/5FTS)
+## kiểm tra kết thúc môn
+- [kết thúc môn ngày 10/1/2023](https://www.jdoodle.com/a/5I4u)
 
